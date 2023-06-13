@@ -5,6 +5,8 @@ function hasKey(key) {
 	return sampleObject.hasOwnProperty(key);
 }
 
+
+
 // Do not change the code below
-// const key = prompt("Enter Key.");
-// alert(hasKey(key));
+const key = prompt("Enter Key.");
+alert(hasKey(key));
